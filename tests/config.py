@@ -1,7 +1,7 @@
 # базовый URL
 base_url = 'https://petstore.swagger.io/v2'
 
-# шапки:
+# заголовки:
 headers = {'accept': 'application/json', 'Content-Type': 'application/json'}
 headers1 = {'accept': 'application/json', 'Content-Type': 'application/x-www-form-urlencoded'}
 
